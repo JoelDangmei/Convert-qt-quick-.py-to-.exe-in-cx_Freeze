@@ -1,6 +1,7 @@
 # Convert-qt-quick-.py-to-.exe-in-cx_Freeze
 
-Converion command
+Conversion command
 ```
 python setup.py build
 ```
+ I am lazy sorry :D
